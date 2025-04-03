@@ -5,7 +5,7 @@
 - 🌱 Currently learning Kubernetes, Next.js, and Advanced DSA.  
 - 💼 Previously built 120+ repositories (unfortunately deleted my old GitHub due to circumstances).  
 - 💞 Looking to collaborate on Open Source projects and innovative development ideas.  
-- 📫 Reach me at [Your Email or Social Link].  
+- 📫 Reach me at harizibamv@gmail.com.  
 - 😄 Pronouns: He/Him.  
 - ⚡ Fun fact: I can talk about system design for hours without getting bored!  
 
