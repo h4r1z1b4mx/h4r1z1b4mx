@@ -2,8 +2,7 @@
 
 🚀 **About Me:**  
 - 👀 Interested in Competitive Programming, System Design, and Web Development.  
-- 🌱 Currently learning Kubernetes, Next.js, and Advanced DSA.  
-- 💼 Previously built 120+ repositories (unfortunately deleted my old GitHub due to circumstances).  
+- 🌱 Currently learning Kubernetes, Next.js, and Advanced DSA.   
 - 💞 Looking to collaborate on Open Source projects and innovative development ideas.  
 - 📫 Reach me at harizibamv@gmail.com.  
 - 😄 Pronouns: He/Him.  
