@@ -13,7 +13,8 @@ Hi there, I'm Harizibam! 👋
 
 ⚡ Fun fact: I can talk about system design for hours without getting bored!
 
-🔗 Live Projects
+🔗 Live Projects (Depley only frontend)
+
 🚀 DeployX – Automated CI/CD deployments
 🔗 https://deployx.harizibam.me/
 
