@@ -13,7 +13,7 @@ Hi there, I'm Harizibam! 👋
 
 ⚡ Fun fact: I can talk about system design for hours without getting bored!
 
-🔗 Live Projects (Depley only frontend)
+🔗 Live Projects (Deployed only frontend)
 
 🔗 https://deployx.harizibam.me/
 
