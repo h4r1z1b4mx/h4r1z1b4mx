@@ -28,5 +28,5 @@ Hi there, I'm Harizibam! 👋
 🌍 https://www.harizibam.me/
 
 
-Note: unfortunately deleted my old GitHub due to circumstances so created new this account.  
+Note: unfortunately deleted my old GitHub due to circumstances, so created new account.  
 <!--- h4r1z1b4mx/h4r1z1b4mx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
